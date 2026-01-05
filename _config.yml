@@ -1,14 +1,16 @@
-title: UntreePhoto
-email: your-email@example.com
+title: In Motion Photography
+email: rob@inmotionfl.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ I am a passionate photographer whose journey began in 2020. With a love for adventure and the great outdoors,
+ I capture the raw beauty of the world through my lens, often while climbing mountains and exploring remote landscapes.
+ My work is driven by a desire to immortalize fleeting moments, showcase the power of nature, and inspire others to connect
+ with the world around them. Through each shot, I aim to blend artistry with exploration, creating images that evoke wonder 
+ and a sense of discovery.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-author: John Doe
+url: "inmotionfl.com" 
+author: Rob Neal
 
-instagram: #
+instagram: #inmotionphotog
 pinterest: #
 facebook: #
 twitter: #
@@ -25,3 +27,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+
