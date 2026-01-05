@@ -1,7 +1,6 @@
 title: In Motion Photography
 email: rob@inmotionfl.com
-description: >- # this means to ignore newlines until "baseurl:"
- I am a passionate photographer whose journey began in 2020. With a love for adventure and the great outdoors,
+description: >-  I am a passionate photographer whose journey began in 2020. With a love for adventure and the great outdoors,
  I capture the raw beauty of the world through my lens, often while climbing mountains and exploring remote landscapes.
  My work is driven by a desire to immortalize fleeting moments, showcase the power of nature, and inspire others to connect
  with the world around them. Through each shot, I aim to blend artistry with exploration, creating images that evoke wonder 
@@ -27,4 +26,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+
 
